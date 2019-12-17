@@ -1,0 +1,55 @@
+ul {
+  list-style-type: none;
+}
+li {
+  float: left;
+}
+#navbar-right {
+  float: right;
+  display: block;
+}
+a,
+a:visited {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  display: block;
+  margin: auto;
+  padding-top: 150px;
+}
+#navbar {
+  display: block;
+  top: 0;
+  position: fixed;
+  width: 100%;
+}
+form {
+  display: block;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+input {
+  margin: 10px;
+}
+button {
+  margin: 10px;
+}
+#footer {
+  bottom: 0;
+  background-color: #f2f2f2;
+  position: fixed;
+  width: 100%;
+  margin: 10px;
+  list-style-type: none;
+}
+#footer-right {
+    float: right;
+    display: block;
+    margin-right: 10px;
+}
