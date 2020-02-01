@@ -1,27 +1,32 @@
 ul {
   list-style-type: none;
 }
+
 li {
   float: left;
 }
+
 #navbar-right {
   float: right;
   display: block;
 }
-a,
-a:visited {
+
+a, a:visited {
   padding: 10px;
   text-decoration: none;
   color: black;
 }
+
 a:hover {
   text-decoration: underline;
 }
+
 img {
   display: block;
   margin: auto;
   padding-top: 150px;
 }
+
 #navbar {
   display: block;
   top: 0;
@@ -34,12 +39,15 @@ form {
   margin: auto;
   text-align: center;
 }
+
 input {
   margin: 10px;
 }
+
 button {
   margin: 10px;
 }
+
 #footer {
   bottom: 0;
   background-color: #f2f2f2;
@@ -48,6 +56,7 @@ button {
   margin: 10px;
   list-style-type: none;
 }
+
 #footer-right {
     float: right;
     display: block;
